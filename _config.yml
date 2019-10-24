@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Portfolio
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Christina Hilburger
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Research and Instruction Librarian at D'Youville College & Reference Librarian at SUNY Genesee Community College."
+  email: christinahilburger@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  twitter: chilburger
+  linkedin: christinahilburger
+  github: #chilburger
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,9 +21,9 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: Z2wQGGQAAAAJ
   facebook: #username
-  instagram: #username
+  instagram: windandpages
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
