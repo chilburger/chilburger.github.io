@@ -7,13 +7,17 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2017 - 2019`
+__McGill University__
+MISt. in Library Studies (ALA-accredited)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2014`
+__University of Pennsylvania__
+B.A. in Humanities, <i>cum laude</i>
+
+`2014 - 2012`
+__Harrisburg Area Community College__
+A.A. in Honors Studies, <i>summa cum laude</i>
 
 ## Awards
 
