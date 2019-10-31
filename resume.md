@@ -7,17 +7,17 @@ Current Position Description
 
 ## Education
 
-`2017 - 2019`
-__McGill University__
-MISt. in Library Studies (ALA-accredited)
+`2019`
+__McGill University,__
+Master of Information Studies (MISt), ALA-accredited
 
-`2016 - 2014`
-__University of Pennsylvania__
-B.A. in Humanities, <i>cum laude</i>
+`2016`
+__University of Pennsylvania,__
+Bachelor of Arts in Humanities, cum laude
 
-`2014 - 2012`
-__Harrisburg Area Community College__
-A.A. in Honors Studies, <i>summa cum laude</i>
+`2015`
+__Harrisburg Area Community College,__
+Associate of Arts in Honors Studies, summa cum laude
 
 ## Awards
 
