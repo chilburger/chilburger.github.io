@@ -62,7 +62,6 @@ Ontario Library Association Super Conference, Toronto, ON
 `September 2019 - Current`
 __Genesee Community College__, 
 *Reference Librarian*, Batavia, NY 
-
 - Provides reference assistance to library users (face-to-face, chat, email & phone), as well as
 information literacy instruction to students
 - Develops and maintains course guides
@@ -72,7 +71,6 @@ information literacy instruction to students
 `August 2019 - Current`
 __D'Youville College__, 
 *Research and Instruction Librarian*, Buffalo, NY 
-
 - Provides research assistance to library users of all skill levels
 - Creates syllabi and implements single classes and multi-session information literacy programs
 - Collaborates with faculty and administration on creating assignment-specific instruction sessions
@@ -86,24 +84,21 @@ programs
 `May 2018 - November 2018`
 __Binghamton University__, 
 *Research and Instruction Librarian Intern*, Binghamton, NY 
-
 - Provided reference services both in-person and virtually (chat, text, email)
 - Worked with committee to design new landing page for Credo InfoLit Modules
 - Promoted library services to newly enrolled students at the Campus Services Fair
 - Reviewed and updated 300+ LibGuide pages
 - Created [89’ Democracy Movement subject guide] (https://libraryguides.binghamton.edu/tiananman/databases).
 
-`October 2016 - August 2017`
 __University of Pennsylvania__, 
+`October 2016 - August 2017`
 *Reading Room Student Coordinator*, Binghamton, NY 
-
 - Trained and supervised student workers
 - Created weekly schedules, delegated tasks and tracked student projects
 - Served as a point-person for everyday operations of the reading room
 
 `May 2016 - August 2017`
 *Library Assistant*
-
 - Managed reception and reading room desks, supervised the use of rare materials and assisted
 researchers visiting the reading room
 - Processed Aeon (Atlas Systems) requests and paged and reshelved rare material
