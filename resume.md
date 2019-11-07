@@ -45,7 +45,7 @@ ACRL Conference, Cleveland, OH
 
 `2018`
 American Library Association Annual Conference, New Orleans, LA
-ALCT Virtual Preconference: * *The Road to Electronic Information Accessibility: How Do We Increase Student Success?/*, Online
+ALCT Virtual Preconference: *The Road to Electronic Information Accessibility: How Do We Increase Student Success?*, Online
 Ontario Library Association Super Conference, Toronto, ON
 
 `2016`Annual Technology and Adult Education Conference, Philadelphia, PA
