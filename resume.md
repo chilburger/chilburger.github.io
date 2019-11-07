@@ -45,7 +45,7 @@ ACRL Conference, Cleveland, OH
 
 `2018`
 American Library Association Annual Conference, New Orleans, LA
-ALCT Virtual Preconference: *The Road to Electronic Information Accessibility: How Do We Increase Student Success?*, Online
+ALCT Virtual Preconference, Online
 Ontario Library Association Super Conference, Toronto, ON
 
 `2016`Annual Technology and Adult Education Conference, Philadelphia, PA
@@ -55,9 +55,9 @@ Ontario Library Association Super Conference, Toronto, ON
 `2013` International Forum on Cross-Cultural Communication and Teaching Chinese Culture, Beijing, CN
 
 
-## Occupation
+# Occupation
 
-### Currently
+## Currently
 
 `September 2019 - Current`
 __Genesee Community College__, *Reference Librarian*, Batavia, NY 
