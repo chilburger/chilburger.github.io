@@ -60,7 +60,7 @@ Ontario Library Association Super Conference, Toronto, ON
 ## Current
 
 `September 2019 - Current`
-__Genesee Community College__, 
+__Genesee Community College__,\ 
 *Reference Librarian*, Batavia, NY 
 - Provides reference assistance to library users (face-to-face, chat, email & phone), as well as
 information literacy instruction to students
