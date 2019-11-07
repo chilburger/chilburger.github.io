@@ -7,7 +7,7 @@ layout: resume
 `2019`
 __McGill University,__
 Master of Information Studies (MISt)
-ALA Student Chapter, *Co-Founder, Co-President*
+ALA Student Chapter, Co-Founder, Co-President
 
 `2016`
 __University of Pennsylvania,__
@@ -17,8 +17,7 @@ Liberal and Professional Studies Student Association, Member
 `2015`
 __Harrisburg Area Community College,__
 Associate of Arts in Honors Studies
-`February 2013`
-Inducted into Phi Theta Kappa Honor Society
+Phi Theta Kappa Honor Society, Member
 
 ## Awards
 
