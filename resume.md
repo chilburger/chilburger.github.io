@@ -90,9 +90,9 @@ __Binghamton University__,
 - Reviewed and updated 300+ LibGuide pages
 - Created [89’ Democracy Movement subject guide](https://libraryguides.binghamton.edu/tiananman/databases).
 
-__University of Pennsylvania__, 
+__University of Pennsylvania__, Philadelphia, PA
 `October 2016 - August 2017`
-*Reading Room Student Coordinator*, Binghamton, NY 
+*Reading Room Student Coordinator*
 - Trained and supervised student workers
 - Created weekly schedules, delegated tasks and tracked student projects
 - Served as a point-person for everyday operations of the reading room
@@ -105,7 +105,14 @@ researchers visiting the reading room
 - Checked in recently catalogued items in end-processing, evaluated housing needs and updated
 bibliographic records in Alma (Ex Libris)
 
-
+`May 2018 - November 2018`
+__Free Library of Philadelphia__, 
+*Digital Resource Specialist*, Philadelphia, PA 
+- Provided reference services both in-person and virtually (chat, text, email)
+- Worked with committee to design new landing page for Credo InfoLit Modules
+- Promoted library services to newly enrolled students at the Campus Services Fair
+- Reviewed and updated 300+ LibGuide pages
+- Created [89’ Democracy Movement subject guide](https://libraryguides.binghamton.edu/tiananman/databases).
 
 <!-- ### Footer
 
