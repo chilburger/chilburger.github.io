@@ -96,9 +96,9 @@ __Binghamton University__, Binghamton, NY
 - Reviewed and updated 300+ LibGuide pages
 - Created [89’ Democracy Movement subject guide](https://libraryguides.binghamton.edu/tiananman/databases).
 
+`May 2016 - August 2017`
 __University of Pennsylvania__, Philadelphia, PA
 
-`May 2016 - August 2017`
 *Reading Room Student Coordinator* / *Library Assistant*
 - Trained and supervised student workers
 - Created weekly schedules, delegated tasks and tracked student projects
