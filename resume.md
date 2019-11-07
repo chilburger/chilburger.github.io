@@ -10,14 +10,16 @@ Current Position Description
 `2019`
 __McGill University,__
 Master of Information Studies (MISt), ALA-accredited
+ALA Student Chapter, * *Co-Founder, Co-President 
+`December 2017 - April 2019`
 
 `2016`
 __University of Pennsylvania,__
-Bachelor of Arts in Humanities, cum laude
+Bachelor of Arts in Humanities, * *cum laude
 
 `2015`
 __Harrisburg Area Community College,__
-Associate of Arts in Honors Studies, summa cum laude
+Associate of Arts in Honors Studies, * *summa cum laude
 
 ## Awards
 
