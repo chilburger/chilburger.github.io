@@ -98,14 +98,11 @@ __Binghamton University__, Binghamton, NY
 
 __University of Pennsylvania__, Philadelphia, PA
 
-`October 2016 - August 2017`
-*Reading Room Student Coordinator*
+`May 2016 - August 2017`
+*Reading Room Student Coordinator* / *Library Assistant*
 - Trained and supervised student workers
 - Created weekly schedules, delegated tasks and tracked student projects
 - Served as a point-person for everyday operations of the reading room
-
-`May 2016 - August 2017`
-*Library Assistant*
 - Managed reception and reading room desks, supervised the use of rare materials and assisted
 researchers visiting the reading room
 - Processed Aeon (Atlas Systems) requests and paged and reshelved rare material
