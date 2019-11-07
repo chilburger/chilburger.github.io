@@ -4,7 +4,7 @@ layout: resume
 ## Currently
 
 `September 2019 - Current`
-__Genesee Community College__, * *Reference Librarian*, Batavia, NY 
+__Genesee Community College__, *Reference Librarian*, Batavia, NY 
 
 - Provides reference assistance to library users (face-to-face, chat, email & phone), as well as
 information literacy instruction to students
@@ -13,7 +13,7 @@ information literacy instruction to students
 - Responsible for the operation of the library during evening and weekend hours
 
 `August 2019 - Current`
-__D'Youville College__, * *Research and Instruction Librarian*, Buffalo, NY 
+__D'Youville College__, *Research and Instruction Librarian*, Buffalo, NY 
 
 - Provides research assistance to library users of all skill levels
 - Creates syllabi and implements single classes and multi-session information literacy programs
