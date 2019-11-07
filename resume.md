@@ -10,8 +10,6 @@ Current Position Description
 `2019`
 __McGill University,__
 Master of Information Studies (MISt), ALA-accredited
-ALA Student Chapter, * *Co-Founder, Co-President 
-`December 2017 - April 2019`
 
 `2016`
 __University of Pennsylvania,__
@@ -38,19 +36,26 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
 ## Presentations
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+
+## Conferences Attended
+
+`2019`
+ACRL Conference, Cleveland, OH
+
+`2018`
+American Library Association Annual Conference, New Orleans, LA
+ALCT Virtual Preconference: * *The Road to Electronic Information Accessibility: How Do We Increase Student Success?/*, Online
+Ontario Library Association Super Conference, Toronto, ON
+
+`2016`Annual Technology and Adult Education Conference, Philadelphia, PA
+
+`2014` Philosophy of Education Conference, Philadelphia, PA
+
+`2013` International Forum on Cross-Cultural Communication and Teaching Chinese Culture, Beijing, CN
 
 
 ## Occupation
