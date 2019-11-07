@@ -60,7 +60,8 @@ Ontario Library Association Super Conference, Toronto, ON
 ## Current
 
 `September 2019 - Current`
-__Genesee Community College__, *Reference Librarian*, Batavia, NY 
+__Genesee Community College__, 
+*Reference Librarian*, Batavia, NY 
 
 - Provides reference assistance to library users (face-to-face, chat, email & phone), as well as
 information literacy instruction to students
@@ -69,7 +70,8 @@ information literacy instruction to students
 - Responsible for the operation of the library during evening and weekend hours
 
 `August 2019 - Current`
-__D'Youville College__, *Research and Instruction Librarian*, Buffalo, NY 
+__D'Youville College__, 
+*Research and Instruction Librarian*, Buffalo, NY 
 
 - Provides research assistance to library users of all skill levels
 - Creates syllabi and implements single classes and multi-session information literacy programs
@@ -82,7 +84,8 @@ programs
 ## Previous
 
 `May 2018 - November 2018`
-__Binghamton University__, *Research and Instruction Librarian Intern*, Binghamton, NY 
+__Binghamton University__, 
+*Research and Instruction Librarian Intern*, Binghamton, NY 
 
 - Provided reference services both in-person and virtually (chat, text, email)
 - Worked with committee to design new landing page for Credo InfoLit Modules
@@ -91,7 +94,8 @@ __Binghamton University__, *Research and Instruction Librarian Intern*, Binghamt
 - Created [89’ Democracy Movement subject guide] (https://libraryguides.binghamton.edu/tiananman/databases).
 
 `October 2016 - August 2017`
-__University of Pennsylvania__, *Reading Room Student Coordinator*, Binghamton, NY 
+__University of Pennsylvania__, 
+*Reading Room Student Coordinator*, Binghamton, NY 
 
 - Trained and supervised student workers
 - Created weekly schedules, delegated tasks and tracked student projects
