@@ -105,14 +105,13 @@ researchers visiting the reading room
 - Checked in recently catalogued items in end-processing, evaluated housing needs and updated
 bibliographic records in Alma (Ex Libris)
 
-`May 2018 - November 2018`
+`July 2016 - June 2017`
 __Free Library of Philadelphia__, Philadelphia, PA 
 *Digital Resource Specialist*
-- Provided reference services both in-person and virtually (chat, text, email)
-- Worked with committee to design new landing page for Credo InfoLit Modules
-- Promoted library services to newly enrolled students at the Campus Services Fair
-- Reviewed and updated 300+ LibGuide pages
-- Created [89’ Democracy Movement subject guide](https://libraryguides.binghamton.edu/tiananman/databases).
+-  Oriented users to computer lab and aided with digital resource access
+-  Instructed the public in small groups and one-on-one in the use of digital technologies
+-  Prepared reports of public trainings and use of technologies for library, government and other
+funding agencies
 
 <!-- ### Footer
 
