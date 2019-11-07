@@ -3,7 +3,25 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+`September 2019 - Current`
+__Genesee Community College__, * *Reference Librarian*/, Batavia, NY 
+
+- Provides reference assistance to library users (face-to-face, chat, email & phone), as well as
+information literacy instruction to students
+- Develops and maintains course guides
+- Creates weekly and weekend reports tracking library usage and tech-related issues
+- Responsible for the operation of the library during evening and weekend hours
+
+`August 2019 - Current`
+__D'Youville College__, * *Research and Instruction Librarian*/, Buffalo, NY 
+
+- Provides research assistance to library users of all skill levels
+- Creates syllabi and implements single classes and multi-session information literacy programs
+- Collaborates with faculty and administration on creating assignment-specific instruction sessions
+- Updates research guides and instructional handouts & created [Common Read Research Guide](https://dyc.libguides.com/nickel_boys_common_read).
+- Assists in the creation and dissemination of promotional materials for the research and instruction
+programs
+- Oversees the opening and/or closing of the building when appropriate
 
 ## Education
 
