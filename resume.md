@@ -88,7 +88,7 @@ __Binghamton University__,
 - Worked with committee to design new landing page for Credo InfoLit Modules
 - Promoted library services to newly enrolled students at the Campus Services Fair
 - Reviewed and updated 300+ LibGuide pages
-- Created [89’ Democracy Movement subject guide] (https://libraryguides.binghamton.edu/tiananman/databases).
+- Created [89’ Democracy Movement subject guide](https://libraryguides.binghamton.edu/tiananman/databases).
 
 __University of Pennsylvania__, 
 `October 2016 - August 2017`
