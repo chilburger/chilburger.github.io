@@ -6,8 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Christina Hilburger,
-  bio: "MISt, (she/her)"
+  name: Christina Hilburger
   avatar: bio-photo.jpg
   bio: "Research and Information Literacy Librarian at State University of New York at Fredonia."
   email: christinahilburger@gmail.com
