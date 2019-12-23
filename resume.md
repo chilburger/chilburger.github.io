@@ -38,6 +38,10 @@ Article Title, Journal Title
 
 ## Presentations
 
+layout: presentation-post-index
+title: Presentations
+excerpt: "Recent Presentations"
+
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
